@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "salad",
+        "age": 98,
+        "score": 56,
+        "isDank": false
+    },
+    {
+        "id": 2,
+        "name": "cake",
+        "age": 2,
+        "score": 99,
+        "isDank": true
+    },
+    {
+        "id": 3,
+        "name": "turtle",
+        "age": 55,
+        "score": 44,
+        "isDank": false
+    },
+    {
+        "id": 4,
+        "name": "laptop",
+        "age": 12,
+        "score": 76,
+        "isDank": true
+    },
+    {
+        "id": 5,
+        "name": "vape",
+        "age": 34,
+        "score": 9999,
+        "isDank": true
+    }
+]
